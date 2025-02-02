@@ -1,4 +1,4 @@
-File Compression in Rust
+#File Compression in Rust
 A simple Rust program to compress files using the flate2 crate.
 
 🚀 Features
